@@ -133,8 +133,7 @@ mern-auth/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mern-auth.git
-
+git clone https://github.com/RoshanSharmaCode/MERN-auth.git
 cd mern-auth
 ```
 
