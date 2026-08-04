@@ -248,30 +248,6 @@ Add screenshots of:
 
 ---
 
-## 🎯 Future Improvements
-
-- Google OAuth Login
-- GitHub OAuth
-- Refresh Tokens
-- Role-Based Authentication
-- User Profile
-- Change Password
-- Account Deletion
-- Two-Factor Authentication (2FA)
-- Rate Limiting
-- Docker Deployment
-
----
-
-## 👨‍💻 Author
-
-**Roshan Sharma**
-
-- GitHub: https://github.com/RoshanSharmaCode
-- LinkedIn: https://linkedin.com/in/roshansharma9379
-
----
-
 ## ⭐ Show Your Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!
