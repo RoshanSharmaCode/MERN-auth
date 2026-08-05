@@ -63,7 +63,6 @@ mern-auth/
 │   ├── middleware/
 │   ├── models/
 │   ├── routes/
-│   ├── templates/
 │   ├── server.js
 │   └── package.json
 │
