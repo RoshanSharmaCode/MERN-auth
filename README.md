@@ -234,23 +234,6 @@ http://localhost:5000
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Home Page
-  <img width="2854" height="1622" alt="image" src="https://github.com/user-attachments/assets/9225d87d-fdb0-4715-9d72-7feaac38f4ec" />
-
-- Login Page
-  
-- Registration Page
-  <img width="2782" height="1580" alt="image" src="https://github.com/user-attachments/assets/4a03b53e-9a86-485a-bcf6-fc53de1cad66" />
-
-- Email Verification
-  <img width="2784" height="1582" alt="image" src="https://github.com/user-attachments/assets/7098b3b8-f4c7-48a4-b50b-3be2b673b7cd" />
-
----
-
 ## ⭐ Show Your Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!
