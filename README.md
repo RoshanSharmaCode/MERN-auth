@@ -2,6 +2,8 @@
 
 A full-stack authentication system built with the **MERN Stack** featuring secure user authentication, email verification using OTP, and password reset functionality.
 
+🚀 **Live Demo:** https://mern-auth-vovw.vercel.app
+
 ## 🚀 Features
 
 - 👤 User Registration
