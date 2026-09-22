@@ -29,7 +29,7 @@ A full-stack authentication system built with the **MERN Stack** featuring secur
 - Axios
 - React Toastify
 - Context API
-
+ 
 ### Backend
 - Node.js
 - Express.js
