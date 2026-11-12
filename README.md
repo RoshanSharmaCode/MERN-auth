@@ -15,7 +15,7 @@ A full-stack authentication system built with the **MERN Stack** featuring secur
 - 🔑 Password Hashing with Bcrypt
 - 📧 Professional HTML Email Templates
 - 📱 Responsive UI with Tailwind CSS
-- 🔔 Toast Notifications
+- 🔔 Toast Notifications 
 
 ---
 
@@ -26,7 +26,7 @@ A full-stack authentication system built with the **MERN Stack** featuring secur
 - Vite
 - Tailwind CSS
 - React Router DOM
-- Axios
+- Axios 
 - React Toastify
 - Context API
  
@@ -44,7 +44,7 @@ A full-stack authentication system built with the **MERN Stack** featuring secur
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure 
 
 ```
 mern-auth/
